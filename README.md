@@ -13,8 +13,8 @@ My name is Nhan Nguyen Thanh, but you can call me Farley ^^<br>Field of study: A
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thanhnhan24&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Dev Meme
-<img src="https://m.media-amazon.com/images/I/51QrwccT4KS.jpg" width="512px"/>
+### Progress
+![progress](https://progress-bar.dev/60/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thanhnhan24&icon=1&color=0)](https://visitcount.itsvg.in)
