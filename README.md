@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎂: 2004<br>🎯: PhD in Robotics<br>Relationship: 💔</p>
+<p align="left">🎂: 2004<br>🎯: PhD in Robotics<br>Relationship: ❤️</p>
 
 ###
 
