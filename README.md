@@ -3,14 +3,14 @@
 ###
 
 <p align="left">NGUYEN THANH NHAN - aka Farley<br>FoD: Engineering in  Artificial Intelligence and Robotics<br>Since: 2022</p>
-</p>Ba Mẹ thân mến. Con lại tiếp tục đơn độc trên con đường này. Con đường mà con đã chọn, con đường mà con tin rằng sẽ mang lại cho Ba Mẹ một cuộc sống tốt hơn, con chưa bao giờ ngừng suy nghĩ về việc một ngày nào đó phải chọn theo Ba hoặc theo Mẹ. Đối với con đó là ác mộng lớn nhất và cũng là nỗi sợ sâu thẳm nhất trong lòng con. Con chẳng biết khi nào bình minh sẽ ló rạng. Nhưng trong màn đêm u tối này, con sẽ mang lại những thứ tốt nhất con có thể có để phụng sự cho Ba Mẹ. Con sẽ đợi cho đến ngày con thật sự chìm vào màn đêm u tối này một lần nữa... và mãi mãi về sau.</p>
+
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">🎂: 2004<br>🎯: PhD in Robotics<br>Relationship: 🔒❤️ 90/90</p>
+<p align="left">🎂: 2004<br>🎯: PhD in Robotics<br>Relationship: Single<br>Practicing: Buddhism
 
 ###
 
