@@ -13,7 +13,7 @@
 - **Academic Goal:** Pursue a Ph.D. in Robotics  
 - **Relationship Status:** In a committed relationship  
   ```cpp
-  const char* partner = "NguyenMaiYNhu";
+  const char* darling = "NguyenMaiYNhu";
 ## Language & Tech Stack
 
 <div align="left">
