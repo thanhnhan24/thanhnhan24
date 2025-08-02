@@ -1,20 +1,19 @@
-# FOR THE IMPERIUM - FOR THE EMPEROR
+# FOR THE IMPERIUM – FOR THE EMPEROR
 
-### 
-**NGUYEN THANH NHAN** - aka *Farley*  
-**Field of Study:** Engineering in Artificial Intelligence and Robotics  
-**Since:** 2022  
+###  
+**Nguyen Thanh Nhan** (*Farley*)  
+**Field of Study:** Engineering in Artificial Intelligence & Robotics  
+**Academic Journey Began:** 2022  
+
 ---
 
 ## About Me
 
-🎂 **Born:** 2004  
-🎯 **Goal:** PhD in Robotics  
-💍 **Relationship Status:** In Love
-**Const char darling =** "NguyenMaiYNhu;
-🧘 **Practicing:** Buddhism  
----
-
+- **Year of Birth:** 2004  
+- **Academic Goal:** Pursue a Ph.D. in Robotics  
+- **Relationship Status:** In a committed relationship  
+  ```cpp
+  const char* partner = "NguyenMaiYNhu";
 ## Language & Tech Stack
 
 <div align="left">
