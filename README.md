@@ -12,8 +12,13 @@
 - **Year of Birth:** 2004  
 - **Academic Goal:** Pursue a Ph.D. in Robotics  
 - **Relationship Status:** In a committed relationship  
-  ```cpp
-  const char* darling = "NguyenMaiYNhu";
+  ```python
+  while live:
+    code()
+    drinkCoffee()
+    missYou()
+    forcesMySelftoWork()
+    time.sleep(0.00001)
 ## Language & Tech Stack
 
 <div align="left">
