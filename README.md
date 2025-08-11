@@ -15,13 +15,15 @@
   ```python
   while live:
     code()
-    drinkCoffee()
-    missYou()
-    forcesMySelftoWork()
+    drink_coffee()
+    miss_you()
+    force_myself_to_work()
     time.sleep(0.00001)
-## Special 
-  ```python
-    self.darling_name = "NguyenMaiYNhu"
+
+self.darling_name = "NguyenMaiYNhu"
+
+
+
 ## Language & Tech Stack
 
 <div align="left">
