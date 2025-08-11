@@ -19,6 +19,8 @@
     missYou()
     forcesMySelftoWork()
     time.sleep(0.00001)
+  ```python
+    self.darling_name = "NguyenMaiYNhu"
 ## Language & Tech Stack
 
 <div align="left">
