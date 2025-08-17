@@ -59,3 +59,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
 </div>
+
+---
+
+## ⚠️ Health Status
+
+- **Liver Failure**  
+- **Kidney Failure**  
+- **Survival Chance:** *Low*  
+
+
+## 🕯️ Personal Message
+
+If I die,  
+**burn everything** –  
+I will finish all my work **down there**.  
