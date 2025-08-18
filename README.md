@@ -11,7 +11,7 @@
 
 - **Year of Birth:** 2004  
 - **Academic Goal:** Pursue a Ph.D. in Robotics  
-- **Relationship Status:** In a committed relationship  
+- **Relationship Status:** One-sided relationship
   ```python
   while live:
     code()
