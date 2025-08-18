@@ -20,7 +20,7 @@
     force_myself_to_work()
     time.sleep(0.00001)
 
-    self.darling_name = "NguyenMaiYNhu"
+    self.darling_name = "NguyenMaiYNhu" #Won't change in the next 10 years or when she found another...
 
 
 
