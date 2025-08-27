@@ -11,7 +11,7 @@
 
 - **Year of Birth:** 2004  
 - **Academic Goal:** Pursue a Ph.D. in Robotics  
-- **Relationship Status:** One-sided relationship
+- **Relationship Status:** In a committed relationship
   ```python
   while live:
     code()
@@ -20,7 +20,7 @@
     force_myself_to_work()
     time.sleep(0.00001)
 
-    self.darling_name = "NguyenMaiYNhu" #Won't change in the next 10 years or when she found another...
+    self.darling_name = "NguyenMaiYNhu" 
 
 
 
@@ -61,12 +61,6 @@
 </div>
 
 ---
-
-## ⚠️ Health Status
-
-- **Liver Failure**  
-- **Kidney Failure**  
-- **Survival Chance:** *Low*  
 
 
 ## 🕯️ Personal Message
