@@ -11,7 +11,7 @@
 
 - **Year of Birth:** 2004  
 - **Academic Goal:** Pursue a Ph.D. in Robotics  
-- **Relationship Status:** 404
+- **Relationship Status:** IN LOVE WITH CHIP
   ```python
   while live:
     code()
@@ -20,7 +20,7 @@
     force_myself_to_work()
     time.sleep(0.00001)
 
-    self.darling_name = "404" 
+    self.darling_name = "NguyenMaiYNhu" 
 
 
 
